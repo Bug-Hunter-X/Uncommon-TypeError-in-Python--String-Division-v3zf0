@@ -1,0 +1,1 @@
+This repository showcases an uncommon error in Python related to type errors during division.  The main script, `bug.py`, demonstrates the unexpected behavior when attempting to divide a string by an integer.  A potential solution is provided in `bugSolution.py` which emphasizes robust error handling and type checking.
